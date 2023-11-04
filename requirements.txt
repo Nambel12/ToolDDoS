@@ -1,6 +1,9 @@
-requests
-pysocks
-socks
 cfscrape
+certifi
+dnspython
+requests
+impacket
+psutil
 icmplib
-scapy
+git+https://github.com/MHProDev/PyRoxy.git
+yarl
