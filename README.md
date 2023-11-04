@@ -10,7 +10,8 @@ apt update && apt upgrade -y
 apt install python3
 apt install rust
 apt install git
-apt install python-cryptography
+pkg install python-cryptography
+pip install setuptools
 git clone https://github.com/NamBel12/ToolDDoS.git
 cd ToolDDoS
 pip install -r requirements.txt
