@@ -1,4 +1,5 @@
 cfscrape
+cloudscraper
 certifi
 dnspython
 requests
