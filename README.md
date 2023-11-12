@@ -8,8 +8,8 @@ A tool ddos can bypass cloudflare,google shield,normal anti ddos,...
 termux-setup-storage
 apt update && apt upgrade -y
 apt install python3
-apt install rust
-apt install git
+pkh install rust
+pkg install git
 pkg install python-cryptography
 pip install setuptools
 git clone https://github.com/NamBel12/ToolDDoS.git
