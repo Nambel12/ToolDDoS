@@ -8,7 +8,7 @@ A tool ddos with 56 methods plus can bypass cloudflare,google shield,normal anti
 termux-setup-storage
 apt update && apt upgrade -y
 pkg install python3
-pkh install rust
+pkg install rust
 pkg install git
 pkg install python-cryptography
 pip install setuptools
