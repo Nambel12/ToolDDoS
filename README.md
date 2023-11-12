@@ -1,5 +1,5 @@
 # Tool DDoS
-A tool ddos can bypass cloudflare,google shield,normal anti ddos,...
+A tool ddos with 56 methods plus can bypass cloudflare,google shield,normal anti ddos,...
 
 # Run On Termux📱,Linux,Window.
 
