@@ -17,3 +17,11 @@ cd ToolDDoS
 pip install -r requirements.txt
 python3 ddos.py
 ```
+
+## Download for Window,Linux:
+```shell script
+git clone https://github.com/Nambel12/ToolDDoS.git
+cd ToolDDoS
+pip install -r requirements.txt
+python3 ddos.py
+```
